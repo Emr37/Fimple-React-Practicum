@@ -1,0 +1,57 @@
+.container {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    background-color: #DFD8CA;
+    
+
+
+}
+
+table td {
+   
+    border: 1px solid gray;
+    height: 100px;
+    width: 100px;
+    color : #DFD8CA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    cursor: pointer;
+
+}
+
+
+td:hover {
+    border: 1px solid #FBF3E4;
+}
+
+button {
+    background-color: #105652;
+    border: 1px solid gray;
+    width: 150px;
+    height: 50px;
+    color : #DFD8CA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    border: 1px solid #FBF3E4;
+    color : #FBF3E4;
+
+
+}
+
+.main {
+    border-radius: 10px;
+}
+
+
+
