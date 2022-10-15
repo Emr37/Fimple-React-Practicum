@@ -1,4 +1,4 @@
-import TicTacToe from './TicTacToe/TicTacToe';
+import TicTacToe from './TicTacToe/TicTacToe.js';
 import './App.css';
 
 
